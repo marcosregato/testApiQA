@@ -1,0 +1,17 @@
+{
+    "configurations": [
+    {
+        "type": "extensionHost",
+        "request": "launch",
+        "name": "Iniciar a Extensão",
+        "runtimeExecutable": "${execPath}",
+        "args": [
+            "--extensionDevelopmentPath=${workspaceFolder}"
+        ],
+        "outFiles": [
+            "${workspaceFolder}/out/**/*.js"
+        ],
+        "preLaunchTask": "npm"
+    }
+    ]
+}
