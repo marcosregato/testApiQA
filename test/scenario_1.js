@@ -1,6 +1,11 @@
 
-var chai = require('chai')
+var validate = require('../business/validate')
 var expect = chai.expect
 
 
-Scenario.prototype.
+describe("Validacao do request"){
+    it(){
+       validate.getValidateRequest 
+    }
+
+}
