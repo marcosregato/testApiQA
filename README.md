@@ -1,6 +1,4 @@
-# PainelTesteAngular
-
-# Painel Teste Angular (EM DESENVOLVIMENTO)
+# Test API QA (EM DESENVOLVIMENTO)
 
 > Painel Teste, faz parte de arquitetura de sistema para testa sistemas web.</br>
 
@@ -11,7 +9,7 @@
 
 > __Descrição do projeto__
 
->	Uma estrtura simple de teste funcional para sistema Web
+>	Valida a estrutura do JSON da requisição via GET 
 
 ![Semantic description of image](./diagrama.png)</p>
 
